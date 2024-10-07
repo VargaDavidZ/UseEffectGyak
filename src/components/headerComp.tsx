@@ -1,5 +1,7 @@
-import "./style.css"
+
 import 'bootstrap/dist/css/bootstrap.min.css'
+import "../style.css"
+import kep from "/Screenshot-2018-03-29-13.49.53.png"
 
 
 export function Header()
@@ -8,7 +10,7 @@ export function Header()
         <>
         
         <header className="container text-center">
-        <img src="./Screenshot-2018-03-29-13.49.53.png" alt="Természetvédelem" className="header-img"/>
+        <img src={kep} alt="Természetvédelem" className="header-img"/>
         <h1>Védjük a környezetet!</h1>
         </header>
 

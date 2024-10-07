@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import 'bootstrap/dist/css/bootstrap.min.css'
-import "./style.css"
+import "../style.css"
 
 
 
@@ -39,7 +39,7 @@ export function VeszelyeztetettAllatfajok() {
 
         <>
 
-            <main className="container my-4">
+          
 
                 <div className="table-responsive">
 
@@ -94,7 +94,7 @@ export function VeszelyeztetettAllatfajok() {
 
 
 
-            </main>
+  
 
 
 
