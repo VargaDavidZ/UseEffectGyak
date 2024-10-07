@@ -1,0 +1,41 @@
+
+
+{
+
+    "allatok": [
+        {
+            "id": 1,
+            "allatfaj": "Óriáspanda",
+            "elohely":"Kína",
+            "veszelyeztetesi_fok": "Veszélyeztetett"
+        },
+        {
+            "id": 2,
+            "allatfaj": "Tigris",
+            "elohely": "Ázsia",
+            "veszelyeztetesi_fok": "Kritikusan veszélyeztetett"
+        },
+        {
+            "id": 3,
+            "allatfaj":"Jegesmedve",
+            "elohely":  "Sarkvidék",
+            "veszelyeztetesi_fok":"Veszélyeztetett"
+        },
+        {
+            "id": 4,
+            "allatfaj":"Gorilla",
+            "elohely":  "Kozép-Afrika",
+            "veszelyeztetesi_fok":"Kritikusan veszélyeztetett"
+        },
+        {
+            "id": 5,
+            "allatfaj":"JegeKék bálnasmedve",
+            "elohely":  "Óceánok",
+            "veszelyeztetesi_fok":"Veszélyeztetett"
+        }
+        
+    ]
+
+
+
+}

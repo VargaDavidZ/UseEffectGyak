@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    /* Fehér háttér */
+}
+
+header {
+    background-color: white;
+    /* Fehér háttér */
+    color: #28a745;
+    /* Zöld szöveg */
+}
+
+footer {
+    background-color: white;
+    /* Fehér háttér */
+    color: #28a745;
+    /* Zöld szöveg */
+}
+
+h1,
+h2 {
+    color: #28a745;
+    /* Zöld szín */
+}
+
+table {
+    border: 1px solid #28a745;
+    /* Zöld keret */
+}
+
+.header-img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+}
